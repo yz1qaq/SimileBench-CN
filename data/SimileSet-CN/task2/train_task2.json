@@ -4350,7 +4350,7 @@
     "pairs_num": 2,
     "all_vehicles": [
       "鹅毛",
-      "白云"
+      "云"
     ],
     "vehicle_num": 2,
     "gold_answer": [
@@ -4361,7 +4361,7 @@
         ]
       },
       {
-        "vehicle": "白云",
+        "vehicle": "云",
         "matched_tenors": [
           "大雪"
         ]
@@ -4374,7 +4374,7 @@
       ],
       [
         "大雪",
-        "白云"
+        "云"
       ]
     ]
   },
@@ -8335,43 +8335,43 @@
       {
         "vehicle": "散步",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "绵羊",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "雄鹰",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "帆船",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "散步"
       ],
       [
-        "白云",
+        "云",
         "绵羊"
       ],
       [
-        "白云",
+        "云",
         "雄鹰"
       ],
       [
-        "白云",
+        "云",
         "帆船"
       ]
     ]
@@ -8721,12 +8721,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "绿绒大伞"
+      "伞"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "绿绒大伞",
+        "vehicle": "伞",
         "matched_tenors": [
           "榕树"
         ]
@@ -8735,7 +8735,7 @@
     "gold_pairs": [
       [
         "榕树",
-        "绿绒大伞"
+        "伞"
       ]
     ]
   },
@@ -9845,7 +9845,7 @@
     "pairs_num": 2,
     "all_vehicles": [
       "挨挨挤挤",
-      "金色墨水"
+      "墨水"
     ],
     "vehicle_num": 2,
     "gold_answer": [
@@ -9856,7 +9856,7 @@
         ]
       },
       {
-        "vehicle": "金色墨水",
+        "vehicle": "墨水",
         "matched_tenors": [
           "油菜花"
         ]
@@ -9869,7 +9869,7 @@
       ],
       [
         "油菜花",
-        "金色墨水"
+        "墨水"
       ]
     ]
   },
@@ -10646,12 +10646,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "紫绒幕布"
+      "幕布"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "紫绒幕布",
+        "vehicle": "幕布",
         "matched_tenors": [
           "树林"
         ]
@@ -10660,7 +10660,7 @@
     "gold_pairs": [
       [
         "树林",
-        "紫绒幕布"
+        "幕布"
       ]
     ]
   },
@@ -10954,12 +10954,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "蓝锦缎"
+      "锦缎"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "蓝锦缎",
+        "vehicle": "锦缎",
         "matched_tenors": [
           "湖水"
         ]
@@ -10968,7 +10968,7 @@
     "gold_pairs": [
       [
         "湖水",
-        "蓝锦缎"
+        "锦缎"
       ]
     ]
   },
@@ -12169,23 +12169,23 @@
       {
         "vehicle": "棉絮",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "绫罗",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "棉絮"
       ],
       [
-        "白云",
+        "云",
         "绫罗"
       ]
     ]
@@ -13579,14 +13579,14 @@
     "emotion": "好",
     "pairs_num": 3,
     "all_vehicles": [
-      "玉雕的圆球",
+      "圆球",
       "树叶",
       "抱"
     ],
     "vehicle_num": 3,
     "gold_answer": [
       {
-        "vehicle": "玉雕的圆球",
+        "vehicle": "圆球",
         "matched_tenors": [
           "雪"
         ]
@@ -13607,7 +13607,7 @@
     "gold_pairs": [
       [
         "雪",
-        "玉雕的圆球"
+        "圆球"
       ],
       [
         "雪",
@@ -17062,12 +17062,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "红气球"
+      "气球"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "红气球",
+        "vehicle": "气球",
         "matched_tenors": [
           "太阳"
         ]
@@ -17076,7 +17076,7 @@
     "gold_pairs": [
       [
         "太阳",
-        "红气球"
+        "气球"
       ]
     ]
   },
@@ -18647,13 +18647,13 @@
     "emotion": "乐",
     "pairs_num": 2,
     "all_vehicles": [
-      "蓝绸子",
+      "绸子",
       "躺"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "蓝绸子",
+        "vehicle": "绸子",
         "matched_tenors": [
           "小河"
         ]
@@ -18668,7 +18668,7 @@
     "gold_pairs": [
       [
         "小河",
-        "蓝绸子"
+        "绸子"
       ],
       [
         "小河",
@@ -21439,7 +21439,7 @@
       {
         "vehicle": "月光曲",
         "matched_tenors": [
-          "蟋蟀的叫声"
+          "叫声"
         ]
       }
     ],
@@ -21449,7 +21449,7 @@
         "唱"
       ],
       [
-        "蟋蟀的叫声",
+        "叫声",
         "月光曲"
       ]
     ]
@@ -22094,12 +22094,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "红苹果"
+      "苹果"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "红苹果",
+        "vehicle": "苹果",
         "matched_tenors": [
           "小脸"
         ]
@@ -22108,7 +22108,7 @@
     "gold_pairs": [
       [
         "小脸",
-        "红苹果"
+        "苹果"
       ]
     ]
   },
@@ -28166,12 +28166,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "红布条"
+      "布条"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "红布条",
+        "vehicle": "布条",
         "matched_tenors": [
           "家"
         ]
@@ -28180,7 +28180,7 @@
     "gold_pairs": [
       [
         "家",
-        "红布条"
+        "布条"
       ]
     ]
   },
@@ -32354,13 +32354,13 @@
     "emotion": "好",
     "pairs_num": 2,
     "all_vehicles": [
-      "黄地毯",
+      "地毯",
       "人"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "黄地毯",
+        "vehicle": "地毯",
         "matched_tenors": [
           "树叶"
         ]
@@ -32375,7 +32375,7 @@
     "gold_pairs": [
       [
         "树叶",
-        "黄地毯"
+        "地毯"
       ],
       [
         "鸡冠花",
@@ -33759,23 +33759,23 @@
       {
         "vehicle": "小船",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "棉花糖",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "小船"
       ],
       [
-        "白云",
+        "云",
         "棉花糖"
       ]
     ]
@@ -34203,7 +34203,7 @@
     "all_vehicles": [
       "银瓦",
       "银条儿",
-      "白被子",
+      "被子",
       "巨龙"
     ],
     "vehicle_num": 4,
@@ -34221,7 +34221,7 @@
         ]
       },
       {
-        "vehicle": "白被子",
+        "vehicle": "被子",
         "matched_tenors": [
           "雪"
         ]
@@ -34244,7 +34244,7 @@
       ],
       [
         "雪",
-        "白被子"
+        "被子"
       ],
       [
         "围墙",
@@ -37179,13 +37179,13 @@
       {
         "vehicle": "人",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "人"
       ]
     ]
@@ -37204,23 +37204,23 @@
       {
         "vehicle": "挤",
         "matched_tenors": [
-          "杨柳的芽"
+          "芽"
         ]
       },
       {
         "vehicle": "人",
         "matched_tenors": [
-          "杨柳的芽"
+          "芽"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "杨柳的芽",
+        "芽",
         "挤"
       ],
       [
-        "杨柳的芽",
+        "芽",
         "人"
       ]
     ]
@@ -40801,7 +40801,7 @@
       "奔走",
       "喘息",
       "人",
-      "清脆快活的声音"
+      "声音"
     ],
     "vehicle_num": 4,
     "gold_answer": [
@@ -40824,7 +40824,7 @@
         ]
       },
       {
-        "vehicle": "清脆快活的声音",
+        "vehicle": "声音",
         "matched_tenors": [
           "天然气灶开关旋钮"
         ]
@@ -40845,7 +40845,7 @@
       ],
       [
         "天然气灶开关旋钮",
-        "清脆快活的声音"
+        "声音"
       ]
     ]
   },
@@ -41264,21 +41264,14 @@
     "sentence_id": "1331",
     "sentence": "一个人的缺点正像猴子的尾巴，在地面的时候，尾巴是看不见的，直到他向树上爬，就把后部供大众瞻仰，可是这红臀长尾巴本来就有，并非地位爬高了的新标识。",
     "emotion": "好",
-    "pairs_num": 2,
+    "pairs_num": 1,
     "all_vehicles": [
-      "尾巴",
-      "红臀长尾巴"
+      "尾巴"
     ],
-    "vehicle_num": 2,
+    "vehicle_num": 1,
     "gold_answer": [
       {
         "vehicle": "尾巴",
-        "matched_tenors": [
-          "缺点"
-        ]
-      },
-      {
-        "vehicle": "红臀长尾巴",
         "matched_tenors": [
           "缺点"
         ]
@@ -41288,10 +41281,6 @@
       [
         "缺点",
         "尾巴"
-      ],
-      [
-        "缺点",
-        "红臀长尾巴"
       ]
     ]
   },
@@ -41402,13 +41391,13 @@
     "emotion": "好",
     "pairs_num": 2,
     "all_vehicles": [
-      "白色的大花",
+      "花",
       "绿毯"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "白色的大花",
+        "vehicle": "花",
         "matched_tenors": [
           "羊群"
         ]
@@ -41423,7 +41412,7 @@
     "gold_pairs": [
       [
         "羊群",
-        "白色的大花"
+        "花"
       ],
       [
         "草原",
@@ -41844,12 +41833,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "白帽子"
+      "帽子"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "白帽子",
+        "vehicle": "帽子",
         "matched_tenors": [
           "雪花"
         ]
@@ -41858,7 +41847,7 @@
     "gold_pairs": [
       [
         "雪花",
-        "白帽子"
+        "帽子"
       ]
     ]
   },
@@ -42471,20 +42460,13 @@
     "sentence_id": "1369",
     "sentence": "洁净的脸膛像朵白云，云中透出阳光，光闪闪、喜滋滋，充满着青春的活力。",
     "emotion": "好",
-    "pairs_num": 3,
+    "pairs_num": 2,
     "all_vehicles": [
-      "白云",
       "云",
       "阳光"
     ],
-    "vehicle_num": 3,
+    "vehicle_num": 2,
     "gold_answer": [
-      {
-        "vehicle": "白云",
-        "matched_tenors": [
-          "脸膛"
-        ]
-      },
       {
         "vehicle": "云",
         "matched_tenors": [
@@ -42499,10 +42481,6 @@
       }
     ],
     "gold_pairs": [
-      [
-        "脸膛",
-        "白云"
-      ],
       [
         "脸膛",
         "云"
@@ -43269,7 +43247,7 @@
     "emotion": "乐",
     "pairs_num": 4,
     "all_vehicles": [
-      "蓝绸子",
+      "绸子",
       "躺",
       "小姑娘",
       "婴儿"
@@ -43277,7 +43255,7 @@
     "vehicle_num": 4,
     "gold_answer": [
       {
-        "vehicle": "蓝绸子",
+        "vehicle": "绸子",
         "matched_tenors": [
           "小河"
         ]
@@ -43304,7 +43282,7 @@
     "gold_pairs": [
       [
         "小河",
-        "蓝绸子"
+        "绸子"
       ],
       [
         "小河",
@@ -44767,13 +44745,13 @@
       {
         "vehicle": "舞者",
         "matched_tenors": [
-          "树的残干"
+          "残干"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "树的残干",
+        "残干",
         "舞者"
       ]
     ]
@@ -45937,23 +45915,23 @@
       {
         "vehicle": "小白羊",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "小牛",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "小白羊"
       ],
       [
-        "白云",
+        "云",
         "小牛"
       ]
     ]
@@ -47689,12 +47667,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "白云"
+      "云"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "白云",
+        "vehicle": "云",
         "matched_tenors": [
           "窗花"
         ]
@@ -47703,7 +47681,7 @@
     "gold_pairs": [
       [
         "窗花",
-        "白云"
+        "云"
       ]
     ]
   },
@@ -47772,13 +47750,13 @@
     "emotion": "好",
     "pairs_num": 2,
     "all_vehicles": [
-      "白云",
+      "云",
       "羊"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "白云",
+        "vehicle": "云",
         "matched_tenors": [
           "棉花糖"
         ]
@@ -47793,7 +47771,7 @@
     "gold_pairs": [
       [
         "棉花糖",
-        "白云"
+        "云"
       ],
       [
         "棉花糖",
@@ -48593,7 +48571,7 @@
     "pairs_num": 2,
     "all_vehicles": [
       "人",
-      "金色墨水"
+      "墨水"
     ],
     "vehicle_num": 2,
     "gold_answer": [
@@ -48604,7 +48582,7 @@
         ]
       },
       {
-        "vehicle": "金色墨水",
+        "vehicle": "墨水",
         "matched_tenors": [
           "油菜花"
         ]
@@ -48617,7 +48595,7 @@
       ],
       [
         "油菜花",
-        "金色墨水"
+        "墨水"
       ]
     ]
   },
@@ -53376,7 +53354,7 @@
       {
         "vehicle": "轻纱",
         "matched_tenors": [
-          "屋顶上的雪"
+          "雪"
         ]
       }
     ],
@@ -53390,7 +53368,7 @@
         "走"
       ],
       [
-        "屋顶上的雪",
+        "雪",
         "轻纱"
       ]
     ]
@@ -54711,7 +54689,7 @@
       {
         "vehicle": "人",
         "matched_tenors": [
-          "大白云"
+          "云"
         ]
       }
     ],
@@ -54721,7 +54699,7 @@
         "雪花"
       ],
       [
-        "大白云",
+        "云",
         "人"
       ]
     ]
@@ -54935,12 +54913,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "玉琢的盘子"
+      "盘子"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "玉琢的盘子",
+        "vehicle": "盘子",
         "matched_tenors": [
           "月亮"
         ]
@@ -54949,7 +54927,7 @@
     "gold_pairs": [
       [
         "月亮",
-        "玉琢的盘子"
+        "盘子"
       ]
     ]
   },
@@ -55591,13 +55569,13 @@
       {
         "vehicle": "身影",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "身影"
       ]
     ]
@@ -59306,13 +59284,13 @@
       {
         "vehicle": "天鹅",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "天鹅"
       ]
     ]
@@ -62922,7 +62900,7 @@
       "奔走",
       "喘息",
       "人",
-      "清脆快活的声音"
+      "声音"
     ],
     "vehicle_num": 4,
     "gold_answer": [
@@ -62945,7 +62923,7 @@
         ]
       },
       {
-        "vehicle": "清脆快活的声音",
+        "vehicle": "声音",
         "matched_tenors": [
           "天然气灶开关旋钮"
         ]
@@ -62966,7 +62944,7 @@
       ],
       [
         "天然气灶开关旋钮",
-        "清脆快活的声音"
+        "声音"
       ]
     ]
   },
@@ -65607,12 +65585,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "白衣仙女"
+      "仙女"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "白衣仙女",
+        "vehicle": "仙女",
         "matched_tenors": [
           "昙花"
         ]
@@ -65621,7 +65599,7 @@
     "gold_pairs": [
       [
         "昙花",
-        "白衣仙女"
+        "仙女"
       ]
     ]
   },
@@ -65725,13 +65703,13 @@
     "emotion": "好",
     "pairs_num": 2,
     "all_vehicles": [
-      "蓝锦缎",
+      "锦缎",
       "眸子"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "蓝锦缎",
+        "vehicle": "锦缎",
         "matched_tenors": [
           "青海湖"
         ]
@@ -65746,7 +65724,7 @@
     "gold_pairs": [
       [
         "青海湖",
-        "蓝锦缎"
+        "锦缎"
       ],
       [
         "涟漪",
@@ -67758,23 +67736,23 @@
       {
         "vehicle": "狮子",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "汽车",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "狮子"
       ],
       [
-        "白云",
+        "云",
         "汽车"
       ]
     ]
@@ -68211,23 +68189,23 @@
       {
         "vehicle": "小船",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "棉花糖",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "小船"
       ],
       [
-        "白云",
+        "云",
         "棉花糖"
       ]
     ]
@@ -71103,13 +71081,13 @@
     "emotion": "好",
     "pairs_num": 2,
     "all_vehicles": [
-      "蓝绸子",
+      "绸子",
       "躺"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "蓝绸子",
+        "vehicle": "绸子",
         "matched_tenors": [
           "小河"
         ]
@@ -71124,7 +71102,7 @@
     "gold_pairs": [
       [
         "小河",
-        "蓝绸子"
+        "绸子"
       ],
       [
         "小河",
@@ -71409,12 +71387,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "金丝带"
+      "丝带"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "金丝带",
+        "vehicle": "丝带",
         "matched_tenors": [
           "长城"
         ]
@@ -71423,7 +71401,7 @@
     "gold_pairs": [
       [
         "长城",
-        "金丝带"
+        "丝带"
       ]
     ]
   },
@@ -72209,14 +72187,14 @@
       {
         "vehicle": "绘画画面",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       },
       {
         "vehicle": "感恩",
         "matched_tenors": [
           "大树",
-          "白云"
+          "云"
         ]
       }
     ],
@@ -72226,7 +72204,7 @@
         "谱写乐章"
       ],
       [
-        "白云",
+        "云",
         "绘画画面"
       ],
       [
@@ -72234,7 +72212,7 @@
         "感恩"
       ],
       [
-        "白云",
+        "云",
         "感恩"
       ]
     ]
@@ -73312,13 +73290,13 @@
     "emotion": "好",
     "pairs_num": 3,
     "all_vehicles": [
-      "红绸子",
+      "绸子",
       "鸡冠花"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "红绸子",
+        "vehicle": "绸子",
         "matched_tenors": [
           "浮云"
         ]
@@ -73334,7 +73312,7 @@
     "gold_pairs": [
       [
         "浮云",
-        "红绸子"
+        "绸子"
       ],
       [
         "浮云",
@@ -75177,33 +75155,33 @@
       {
         "vehicle": "灰尘",
         "matched_tenors": [
-          "松香的气味"
+          "气味"
         ]
       },
       {
         "vehicle": "缭绕",
         "matched_tenors": [
-          "松香的气味"
+          "气味"
         ]
       },
       {
         "vehicle": "升腾",
         "matched_tenors": [
-          "松香的气味"
+          "气味"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "松香的气味",
+        "气味",
         "灰尘"
       ],
       [
-        "松香的气味",
+        "气味",
         "缭绕"
       ],
       [
-        "松香的气味",
+        "气味",
         "升腾"
       ]
     ]
@@ -75541,7 +75519,7 @@
       {
         "vehicle": "倪云林",
         "matched_tenors": [
-          "峰冈起伏的轮廓"
+          "轮廓"
         ]
       }
     ],
@@ -75555,7 +75533,7 @@
         "皴法"
       ],
       [
-        "峰冈起伏的轮廓",
+        "轮廓",
         "倪云林"
       ]
     ]
@@ -78527,13 +78505,13 @@
       {
         "vehicle": "花仙子",
         "matched_tenors": [
-          "白菊花"
+          "菊花"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白菊花",
+        "菊花",
         "花仙子"
       ]
     ]
@@ -80084,7 +80062,7 @@
     "sentence_id": "2599",
     "sentence": "通过同伴的结局，艾比湖一定看到了自己悲情的归宿，所以，湖才有了泪的咸涩。如果能发出呐喊，我想，湖是一定要向上天控诉的，控诉那贪婪者、破坏者、无知者、傲慢者，控诉他们以自己的短视，替子孙们挖掘着墓穴。",
     "emotion": "哀",
-    "pairs_num": 2,
+    "pairs_num": 1,
     "all_vehicles": [
       "人"
     ],
@@ -80093,18 +80071,13 @@
       {
         "vehicle": "人",
         "matched_tenors": [
-          "艾比湖",
-          "湖"
+          "艾比湖"
         ]
       }
     ],
     "gold_pairs": [
       [
         "艾比湖",
-        "人"
-      ],
-      [
-        "湖",
         "人"
       ]
     ]
@@ -80937,13 +80910,13 @@
       {
         "vehicle": "棉花",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "棉花"
       ]
     ]
@@ -81193,7 +81166,7 @@
     "pairs_num": 4,
     "all_vehicles": [
       "根",
-      "红布条",
+      "布条",
       "大衣",
       "火炉"
     ],
@@ -81206,7 +81179,7 @@
         ]
       },
       {
-        "vehicle": "红布条",
+        "vehicle": "布条",
         "matched_tenors": [
           "家"
         ]
@@ -81231,7 +81204,7 @@
       ],
       [
         "家",
-        "红布条"
+        "布条"
       ],
       [
         "家",
@@ -82896,7 +82869,7 @@
       {
         "vehicle": "翠菊",
         "matched_tenors": [
-          "黄色小花"
+          "花"
         ]
       },
       {
@@ -82908,7 +82881,7 @@
     ],
     "gold_pairs": [
       [
-        "黄色小花",
+        "花",
         "翠菊"
       ],
       [
@@ -87448,7 +87421,7 @@
       {
         "vehicle": "小嘴儿",
         "matched_tenors": [
-          "两个小瓣"
+          "瓣"
         ]
       }
     ],
@@ -87458,7 +87431,7 @@
         "拳"
       ],
       [
-        "两个小瓣",
+        "瓣",
         "小嘴儿"
       ]
     ]
@@ -87941,12 +87914,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "油锅里的味道"
+      "味道"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "油锅里的味道",
+        "vehicle": "味道",
         "matched_tenors": [
           "生活"
         ]
@@ -87955,7 +87928,7 @@
     "gold_pairs": [
       [
         "生活",
-        "油锅里的味道"
+        "味道"
       ]
     ]
   },
@@ -89625,7 +89598,7 @@
     "pairs_num": 4,
     "all_vehicles": [
       "水",
-      "针尖上的水滴",
+      "水滴",
       "大海",
       "流"
     ],
@@ -89638,7 +89611,7 @@
         ]
       },
       {
-        "vehicle": "针尖上的水滴",
+        "vehicle": "水滴",
         "matched_tenors": [
           "日子"
         ]
@@ -89663,7 +89636,7 @@
       ],
       [
         "日子",
-        "针尖上的水滴"
+        "水滴"
       ],
       [
         "日子",
@@ -90191,12 +90164,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "红气球"
+      "气球"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "红气球",
+        "vehicle": "气球",
         "matched_tenors": [
           "太阳"
         ]
@@ -90205,7 +90178,7 @@
     "gold_pairs": [
       [
         "太阳",
-        "红气球"
+        "气球"
       ]
     ]
   },
@@ -91446,7 +91419,7 @@
       {
         "vehicle": "掰掉",
         "matched_tenors": [
-          "信箱的门儿"
+          "门儿"
         ]
       },
       {
@@ -91458,7 +91431,7 @@
     ],
     "gold_pairs": [
       [
-        "信箱的门儿",
+        "门儿",
         "掰掉"
       ],
       [
@@ -93177,13 +93150,13 @@
     "emotion": "乐",
     "pairs_num": 2,
     "all_vehicles": [
-      "绿地毯",
+      "地毯",
       "翩翩起舞"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "绿地毯",
+        "vehicle": "地毯",
         "matched_tenors": [
           "草"
         ]
@@ -93198,7 +93171,7 @@
     "gold_pairs": [
       [
         "草",
-        "绿地毯"
+        "地毯"
       ],
       [
         "草",
@@ -94726,33 +94699,33 @@
       {
         "vehicle": "盘子",
         "matched_tenors": [
-          "玉兰花的花"
+          "花"
         ]
       },
       {
         "vehicle": "笑脸",
         "matched_tenors": [
-          "玉兰花的花"
+          "花"
         ]
       },
       {
         "vehicle": "玻璃杯",
         "matched_tenors": [
-          "玉兰花的花"
+          "花"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "玉兰花的花",
+        "花",
         "盘子"
       ],
       [
-        "玉兰花的花",
+        "花",
         "笑脸"
       ],
       [
-        "玉兰花的花",
+        "花",
         "玻璃杯"
       ]
     ]
@@ -94787,12 +94760,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "白云"
+      "云"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "白云",
+        "vehicle": "云",
         "matched_tenors": [
           "童年"
         ]
@@ -94801,7 +94774,7 @@
     "gold_pairs": [
       [
         "童年",
-        "白云"
+        "云"
       ]
     ]
   },
@@ -95111,12 +95084,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "白轮船"
+      "轮船"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "白轮船",
+        "vehicle": "轮船",
         "matched_tenors": [
           "它"
         ]
@@ -95125,7 +95098,7 @@
     "gold_pairs": [
       [
         "它",
-        "白轮船"
+        "轮船"
       ]
     ]
   },
@@ -95893,12 +95866,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "白头巾"
+      "头巾"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "白头巾",
+        "vehicle": "头巾",
         "matched_tenors": [
           "雪"
         ]
@@ -95907,7 +95880,7 @@
     "gold_pairs": [
       [
         "雪",
-        "白头巾"
+        "头巾"
       ]
     ]
   },
@@ -99368,13 +99341,13 @@
       {
         "vehicle": "羊群",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "羊群"
       ]
     ]
@@ -100473,12 +100446,12 @@
     "emotion": "好",
     "pairs_num": 1,
     "all_vehicles": [
-      "蓝颜料"
+      "颜料"
     ],
     "vehicle_num": 1,
     "gold_answer": [
       {
-        "vehicle": "蓝颜料",
+        "vehicle": "颜料",
         "matched_tenors": [
           "天"
         ]
@@ -100487,7 +100460,7 @@
     "gold_pairs": [
       [
         "天",
-        "蓝颜料"
+        "颜料"
       ]
     ]
   },
@@ -102452,13 +102425,13 @@
     "emotion": "好",
     "pairs_num": 2,
     "all_vehicles": [
-      "红五星",
+      "五星",
       "手掌"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "红五星",
+        "vehicle": "五星",
         "matched_tenors": [
           "枫叶"
         ]
@@ -102473,7 +102446,7 @@
     "gold_pairs": [
       [
         "枫叶",
-        "红五星"
+        "五星"
       ],
       [
         "枫叶",
@@ -105786,7 +105759,7 @@
       {
         "vehicle": "豺狗",
         "matched_tenors": [
-          "我们的飞机"
+          "飞机"
         ]
       },
       {
@@ -105798,7 +105771,7 @@
     ],
     "gold_pairs": [
       [
-        "我们的飞机",
+        "飞机",
         "豺狗"
       ],
       [
@@ -106629,13 +106602,13 @@
     "emotion": "好",
     "pairs_num": 2,
     "all_vehicles": [
-      "白色旋涡",
+      "旋涡",
       "云雾飘渺的国际"
     ],
     "vehicle_num": 2,
     "gold_answer": [
       {
-        "vehicle": "白色旋涡",
+        "vehicle": "旋涡",
         "matched_tenors": [
           "雪花"
         ]
@@ -106650,7 +106623,7 @@
     "gold_pairs": [
       [
         "雪花",
-        "白色旋涡"
+        "旋涡"
       ],
       [
         "雪花",
@@ -109511,13 +109484,13 @@
       {
         "vehicle": "舞蹈",
         "matched_tenors": [
-          "白云"
+          "云"
         ]
       }
     ],
     "gold_pairs": [
       [
-        "白云",
+        "云",
         "舞蹈"
       ]
     ]
@@ -114019,7 +113992,7 @@
     "emotion": "惊",
     "pairs_num": 4,
     "all_vehicles": [
-      "白色巨兽",
+      "巨兽",
       "浓云",
       "天崩地裂",
       "掩埋"
@@ -114027,7 +114000,7 @@
     "vehicle_num": 4,
     "gold_answer": [
       {
-        "vehicle": "白色巨兽",
+        "vehicle": "巨兽",
         "matched_tenors": [
           "雪崩"
         ]
@@ -114054,7 +114027,7 @@
     "gold_pairs": [
       [
         "雪崩",
-        "白色巨兽"
+        "巨兽"
       ],
       [
         "雪雾",
@@ -118324,7 +118297,7 @@
     "all_vehicles": [
       "火山喷发",
       "流星雨",
-      "黑色巨蟒",
+      "巨蟒",
       "海啸"
     ],
     "vehicle_num": 4,
@@ -118342,7 +118315,7 @@
         ]
       },
       {
-        "vehicle": "黑色巨蟒",
+        "vehicle": "巨蟒",
         "matched_tenors": [
           "浓烟"
         ]
@@ -118365,7 +118338,7 @@
       ],
       [
         "浓烟",
-        "黑色巨蟒"
+        "巨蟒"
       ],
       [
         "尖叫声",

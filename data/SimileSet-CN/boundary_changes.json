@@ -1,0 +1,857 @@
+[
+  {
+    "split": "train",
+    "sentence_id": "136",
+    "pair_index": 1,
+    "side": "vehicle",
+    "old": "白云",
+    "new": "云",
+    "sentence": "冬天，风雪肆虐，鹅毛一样的大雪，落在山上，落进谷里，落在松树枝丫上，好像托着片片白云。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "262",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "抬起头仰望天空，看到了许多白云在湛蓝的天空中悠闲的散步，有的像绵羊，看起来浑身胖乎乎的；有的像雄鹰，好像马上就要起飞；有的像帆船，带着美好的梦……"
+  },
+  {
+    "split": "train",
+    "sentence_id": "262",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "抬起头仰望天空，看到了许多白云在湛蓝的天空中悠闲的散步，有的像绵羊，看起来浑身胖乎乎的；有的像雄鹰，好像马上就要起飞；有的像帆船，带着美好的梦……"
+  },
+  {
+    "split": "train",
+    "sentence_id": "262",
+    "pair_index": 2,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "抬起头仰望天空，看到了许多白云在湛蓝的天空中悠闲的散步，有的像绵羊，看起来浑身胖乎乎的；有的像雄鹰，好像马上就要起飞；有的像帆船，带着美好的梦……"
+  },
+  {
+    "split": "train",
+    "sentence_id": "262",
+    "pair_index": 3,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "抬起头仰望天空，看到了许多白云在湛蓝的天空中悠闲的散步，有的像绵羊，看起来浑身胖乎乎的；有的像雄鹰，好像马上就要起飞；有的像帆船，带着美好的梦……"
+  },
+  {
+    "split": "train",
+    "sentence_id": "273",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "绿绒大伞",
+    "new": "伞",
+    "sentence": "在中心广场的四周有六株气势磅礴的大榕树，满树的枝叶绿的可爱，活像一把张开的绿绒大伞。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "312",
+    "pair_index": 1,
+    "side": "vehicle",
+    "old": "金色墨水",
+    "new": "墨水",
+    "sentence": "一大片一大片的油菜花在田野里挨挨挤挤的，仿佛是谁不小心打翻了春姑娘的金色墨水瓶，弄得到处都是金灿灿的。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "339",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "紫绒幕布",
+    "new": "幕布",
+    "sentence": "还有的树林变得紫红紫红，像剧场里紫绒幕布一样。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "350",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "蓝锦缎",
+    "new": "锦缎",
+    "sentence": "湖水之蓝蓝得晶莹可爱，如“蓝锦缎似的”。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "387",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "山谷间的白云，时而滚作一团团的棉絮，时而化作长长的绫罗，绕着这个山峰飘忽而来，又悠然地从另一处山峰飘忽而去。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "387",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "山谷间的白云，时而滚作一团团的棉絮，时而化作长长的绫罗，绕着这个山峰飘忽而来，又悠然地从另一处山峰飘忽而去。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "436",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "玉雕的圆球",
+    "new": "圆球",
+    "sentence": "雪有的抱在一起，像玉雕的圆球；还有的像树叶一样优雅、端庄地飘落下来。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "544",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "红气球",
+    "new": "气球",
+    "sentence": "太阳像一个大大的红气球，照亮世界。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "594",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "蓝绸子",
+    "new": "绸子",
+    "sentence": "小河清澈见底，如同一条透明的蓝绸子，静静地躺在大地的怀抱里。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "681",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "蟋蟀的叫声",
+    "new": "叫声",
+    "sentence": "夜晚，蟋蟀在阳台上叫，好像唱着月光曲。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "702",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "红苹果",
+    "new": "苹果",
+    "sentence": "一张红彤彤的小脸像熟透了的红苹果。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "900",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "红布条",
+    "new": "布条",
+    "sentence": "家就像红布条，永远系着游子的心。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1040",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "黄地毯",
+    "new": "地毯",
+    "sentence": "深秋，树叶枯黄了，纷纷扬扬地落在地上，像铺上了一层黄地毯，惟有鸡冠花不忍谢去，颇有独立寒秋的味道。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1081",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "那一朵朵的白云像是行驶在天空中的小船，又像是一串串美味的棉花糖。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1081",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "那一朵朵的白云像是行驶在天空中的小船，又像是一串串美味的棉花糖。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1097",
+    "pair_index": 2,
+    "side": "vehicle",
+    "old": "白被子",
+    "new": "被子",
+    "sentence": "不到半日，大寺便银装素裹，粉妆玉砌了。房子盖上了银瓦；树木挂上了银条儿；田野盖上了白被子；围墙成了蜿蜒曲折白脊背的巨龙。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1197",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "白云时而飘到小鸟家中，跟她们捉迷藏。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1198",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "杨柳的芽",
+    "new": "芽",
+    "sentence": "春天，春姑娘迎着轻快的脚步来了。杨柳的芽忙着挤挤，生怕没有方位。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1198",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "杨柳的芽",
+    "new": "芽",
+    "sentence": "春天，春姑娘迎着轻快的脚步来了。杨柳的芽忙着挤挤，生怕没有方位。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1317",
+    "pair_index": 3,
+    "side": "vehicle",
+    "old": "清脆快活的声音",
+    "new": "声音",
+    "sentence": "我们的终点是伟大的西气东送工程的起点——克拉2号气井。和沙漠地貌截然不同，这里是犬牙交错、怪石林立的雅丹地貌。没有路，钻井的迁移甚至不得不动用直升机。石油工人硬是在这乱石中，打下了井，钻出了气，修成了路，铺下了管道。当我把耳朵贴近输气管道，听见丝丝的天然气奔走的急促喘息声，那一刻，真有点让人激动。它们翻山越岭，渡江跨河，要到数千里之遥的上海、北京。那一刻，我真想让北京的亲友知道，当你们为做午餐轻轻转动天然气灶的开关旋钮时，我能听见那清脆快活的声音，我的心跳正激荡在这离你们遥远而又亲近的地方。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1336",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白色的大花",
+    "new": "花",
+    "sentence": "羊群一瞬间上了小丘，一瞬间又下来，走到哪里都像给无边的绿毯绣上了白色的大花。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1348",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白帽子",
+    "new": "帽子",
+    "sentence": "雪花落在了房子上，如同给房子戴上了一顶白帽子。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1393",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "蓝绸子",
+    "new": "绸子",
+    "sentence": "小河清澈见底，好像一条通明的蓝绸子，静静地躺在大地的怀抱里。天是个害臊的小姑娘，遮遮掩掩，躲躲藏藏;春天是出世的婴儿，娇小心爱。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1440",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "树的残干",
+    "new": "残干",
+    "sentence": "虽然，它们也许已经死去，年复一年的风沙，折断了树枝，剥开了树皮，可是树的残干依然挺立，像是一群强悍的舞者，向天空和大地顽强地倾诉着它们的意志和信念。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1480",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天上有的白云好像可爱的小白羊伸着脖子在“咩咩”地叫有的白云好像小牛低着头在吃草"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1480",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天上有的白云好像可爱的小白羊伸着脖子在“咩咩”地叫有的白云好像小牛低着头在吃草"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1535",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白云",
+    "new": "云",
+    "sentence": "玻璃上的窗花，有的像飘浮在天空中的一片片白云。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1538",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白云",
+    "new": "云",
+    "sentence": "棉花糖犹如天上的白云，又似一只可爱的咩羊。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1566",
+    "pair_index": 1,
+    "side": "vehicle",
+    "old": "金色墨水",
+    "new": "墨水",
+    "sentence": "大片一大片的油菜花在田野里挨挨挤挤的，仿佛是谁不小心打翻了春姑娘的金色墨水瓶，弄得到处都是金灿灿的。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1727",
+    "pair_index": 2,
+    "side": "tenor",
+    "old": "屋顶上的雪",
+    "new": "雪",
+    "sentence": "这场雪是来得如此匆匆，去也匆匆。直到傍晚，雪停了，雪走了。只看见屋顶上还留着雪，仿佛是一层飘逸的轻纱……是的，雪走了，它来的悄悄，去的无声，留给人们的只是一片惊喜：一个小孩从屋里走了出来说：“呀，刚才下雪了……”"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1769",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "大白云",
+    "new": "云",
+    "sentence": "我是一朵小雪花，我住在广阔的天空。大白云每天都教导我不怕牺牲，要保护庄稼，要把害虫统统消灭干净。我在天空一天天长大了。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1778",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "玉琢的盘子",
+    "new": "盘子",
+    "sentence": "抬头望着寂静的夜空，可爱的月亮从树梢后慢慢地爬上半空，光亮、圆润，像一块玉琢的盘子。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1800",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "你好，悠悠的白云！你洁白的身影，让天空充满宁静，变得更加湛蓝。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "1917",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "白云的姿态变化万千。不信你看天边，那片云不像一只浑身雪白的天鹅吗？"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2044",
+    "pair_index": 3,
+    "side": "vehicle",
+    "old": "清脆快活的声音",
+    "new": "声音",
+    "sentence": "我们的终点是伟大的西气东送工程的起点——克拉3号气井。和沙漠地貌截然不同，这里是犬牙交错、怪石林立的雅丹地貌。没有路，钻井的迁移甚至不得不动用直升机。石油工人硬是在这乱石中，打下了井，钻出了气，修成了路，铺下了管道。当我把耳朵贴近输气管道，听见丝丝的天然气奔走的急促喘息声，那一刻，真有点让人激动。它们翻山越岭，渡江跨河，要到数千里之遥的上海、北京。那一刻，我真想让北京的亲友知道，当你们为做午餐轻轻转动天然气灶的开关旋钮时，我能听见那清脆快活的声音，我的心跳正激荡在这离你们遥远而又亲近的地方。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2137",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白衣仙女",
+    "new": "仙女",
+    "sentence": "绽放的昙花花朵皎洁饱满，光彩夺目，显得那样雍容华贵，妩媚娇丽；颤巍巍，飘飘然，芳香飘溢，恍若白衣仙女下凡。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2141",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "蓝锦缎",
+    "new": "锦缎",
+    "sentence": "青海湖的蓝，蓝的纯净，蓝得深湛，也蓝得温柔恬雅，那蓝锦缎似的湖面上，起伏着一层微微的涟漪。像是小姑娘那水灵灵、蓝晶晶的眸子。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2205",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天上的白云形态各异，有的像狮子，有的像汽车，什么样子的都有。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2205",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天上的白云形态各异，有的像狮子，有的像汽车，什么样子的都有。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2220",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "那蓝天上的朵朵白云像是行驶在天空中的小船，又像是一串串美味的棉花糖。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2220",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "那蓝天上的朵朵白云像是行驶在天空中的小船，又像是一串串美味的棉花糖。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2310",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "蓝绸子",
+    "new": "绸子",
+    "sentence": "小河明澈见底，如同一条通明的蓝绸子，静静地躺在大地的怀里。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2320",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "金丝带",
+    "new": "丝带",
+    "sentence": "长城犹如一条歪歪扭扭的金丝带。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2347",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "落叶在空中盘旋，谱写着一曲感恩的乐章，那是大树对滋养它大地的感恩；白云在蔚蓝的天空中飘荡，绘画着那一幅幅感人的画面，那是白云对哺育它的蓝天的感恩。因为感恩才会有这个多彩的社会，因为感恩才会有真挚的友情，因为感恩才让我们懂得了生命的真谛。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2347",
+    "pair_index": 3,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "落叶在空中盘旋，谱写着一曲感恩的乐章，那是大树对滋养它大地的感恩；白云在蔚蓝的天空中飘荡，绘画着那一幅幅感人的画面，那是白云对哺育它的蓝天的感恩。因为感恩才会有这个多彩的社会，因为感恩才会有真挚的友情，因为感恩才让我们懂得了生命的真谛。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2381",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "红绸子",
+    "new": "绸子",
+    "sentence": "蓝色的天上飘着一块一块的浮云，像红绸子照在还乡河上，水里像开了一大朵一大朵的鸡冠花。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2443",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "松香的气味",
+    "new": "气味",
+    "sentence": "我们看见石头壁炉中的火苗正在熄灭，松香的气味在阳光中像是陈旧的灰尘，在归来的故人的眼中徐徐缭绕、升腾。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2443",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "松香的气味",
+    "new": "气味",
+    "sentence": "我们看见石头壁炉中的火苗正在熄灭，松香的气味在阳光中像是陈旧的灰尘，在归来的故人的眼中徐徐缭绕、升腾。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2443",
+    "pair_index": 2,
+    "side": "tenor",
+    "old": "松香的气味",
+    "new": "气味",
+    "sentence": "我们看见石头壁炉中的火苗正在熄灭，松香的气味在阳光中像是陈旧的灰尘，在归来的故人的眼中徐徐缭绕、升腾。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2454",
+    "pair_index": 2,
+    "side": "tenor",
+    "old": "峰冈起伏的轮廓",
+    "new": "轮廓",
+    "sentence": "碎裂的整块的，像沈石田的峭壁，细杂的一部分，像黄子久的皴法，峰冈起伏的轮廓，有些像倪云林。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2547",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白菊花",
+    "new": "菊花",
+    "sentence": "瞧!那围成一圈的白菊花，在墨绿的叶子衬托下，犹如一个个超凡脱俗的花仙子。瞧!那围成一圈的白菊花，在墨绿的叶子衬托下，犹如一个个超凡脱俗的花仙子。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2628",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "蔚蓝的天空无边无际，朵朵白云像棉花般轻柔地漂浮着，很美丽。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2638",
+    "pair_index": 1,
+    "side": "vehicle",
+    "old": "红布条",
+    "new": "布条",
+    "sentence": "就像根，永远是树叶的家，家就像红布条，永远系着游子的心，家就像大衣一件，不会提高温度，但却给予人们连火炉都不能替代的温暖。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2689",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "黄色小花",
+    "new": "花",
+    "sentence": "又是一阵略带凉意的微风吹了过来，一种像翠菊似的黄色小花随风摇动着小小的脑袋。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2846",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "两个小瓣",
+    "new": "瓣",
+    "sentence": "10天之后，果然就全发芽了，先是拳拳的一个嫩黄尖儿，接着就分开两个小瓣，肉肉的，像张开的一个小嘴儿。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2863",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "油锅里的味道",
+    "new": "味道",
+    "sentence": "生活，好似油锅里面的味道，酸甜苦辣，样样俱全。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2921",
+    "pair_index": 1,
+    "side": "vehicle",
+    "old": "针尖上的水滴",
+    "new": "水滴",
+    "sentence": "在默默里算着，八千多日子已经从我手中溜去;像针尖上一滴水滴在大海里，我的日子滴在时间的流里，没有声音，也没有影子。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2938",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "红气球",
+    "new": "气球",
+    "sentence": "太阳升起来了像个圆圆的红气球。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "2982",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "信箱的门儿",
+    "new": "门儿",
+    "sentence": "信箱的门儿叫一个无知的孩子掰掉，箱子的四边像个方木框残留那里。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3039",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "绿地毯",
+    "new": "地毯",
+    "sentence": "公园里的草真绿啊，绿得让你感觉那是一块绿地毯；公园里的草真密啊，密得看不见泥土；公园里的草真柔啊，微风一吹，它们就翩翩起舞。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3083",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "玉兰花的花",
+    "new": "花",
+    "sentence": "玉兰花的花是那样的大，大得像只晶莹剔透的盘子；玉兰花的花是那样的饱满，饱满得像张灿烂的笑脸；玉兰花的花是那样的挺拔，挺拔得像只玻璃杯。玉兰花向着阳光，就留着影，也许是害羞吧！玉兰花太过安静，让我们觉得好像缺乏激情，然而谁又知道玉兰花的激情是藏于心底的呢？"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3083",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "玉兰花的花",
+    "new": "花",
+    "sentence": "玉兰花的花是那样的大，大得像只晶莹剔透的盘子；玉兰花的花是那样的饱满，饱满得像张灿烂的笑脸；玉兰花的花是那样的挺拔，挺拔得像只玻璃杯。玉兰花向着阳光，就留着影，也许是害羞吧！玉兰花太过安静，让我们觉得好像缺乏激情，然而谁又知道玉兰花的激情是藏于心底的呢？"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3083",
+    "pair_index": 2,
+    "side": "tenor",
+    "old": "玉兰花的花",
+    "new": "花",
+    "sentence": "玉兰花的花是那样的大，大得像只晶莹剔透的盘子；玉兰花的花是那样的饱满，饱满得像张灿烂的笑脸；玉兰花的花是那样的挺拔，挺拔得像只玻璃杯。玉兰花向着阳光，就留着影，也许是害羞吧！玉兰花太过安静，让我们觉得好像缺乏激情，然而谁又知道玉兰花的激情是藏于心底的呢？"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3085",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白云",
+    "new": "云",
+    "sentence": "童年是一朵朵白云，承载着希望与欢乐。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3093",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白轮船",
+    "new": "轮船",
+    "sentence": "不同的是它有着微微的咸腥气，好像它是一艘白轮船，刚刚出海归来。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3121",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白头巾",
+    "new": "头巾",
+    "sentence": "满山遍野的雪，就像那仙女头上的白头巾，盖在了大地上。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3225",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "朵朵白云在蔚蓝色的天空中自由地遨游，就像羊群在广袤无边的草原上徜徉。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3262",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "蓝颜料",
+    "new": "颜料",
+    "sentence": "天湛蓝湛蓝的，像哪位画家泼上去的蓝颜料。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3325",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "红五星",
+    "new": "五星",
+    "sentence": "这片枫叶好象一个美丽的红五星，又像是一只张开的小手掌。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3429",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "我们的飞机",
+    "new": "飞机",
+    "sentence": "敌机逃窜了，我们的飞机紧紧追在后面，像豺狗追小白兔一样，一前一后。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3456",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白色旋涡",
+    "new": "旋涡",
+    "sentence": "一阵劲风出人意料，布满地下的雪花又飞上了天空，真像白色旋涡在空中飞着，真像一个云雾飘渺的国际，把我引入梦境。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3550",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "蔚蓝的天空，白云跳着舞蹈，很美丽。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3649",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白色巨兽",
+    "new": "巨兽",
+    "sentence": "那雪崩骤然倾泻，如白色巨兽扑向山谷，雪雾似浓云翻滚，轰鸣声仿佛天崩地裂，瞬间掩埋了山间公路，场面令人惊骇失声。"
+  },
+  {
+    "split": "train",
+    "sentence_id": "3738",
+    "pair_index": 2,
+    "side": "vehicle",
+    "old": "黑色巨蟒",
+    "new": "巨蟒",
+    "sentence": "那场突如其来的爆炸，像火山喷发般震耳欲聋，碎片如流星雨般四散飞溅，浓烟似黑色巨蟒般直冲云霄，而人群的尖叫声则如海啸般席卷了整个街区。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "156",
+    "pair_index": 1,
+    "side": "vehicle",
+    "old": "绿大地",
+    "new": "大地",
+    "sentence": "像春风拂过一样：小草使大地渐渐地绿了，花开使空气缓缓地香了，绿柳使河堤慢慢地披上秀发，鸟儿的莺转鹂回使人们的心情静静地舒畅。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "159",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "月季花的颜色",
+    "new": "颜色",
+    "sentence": "月季花开了，颜色是那么浓就像燃烧着的火焰。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "279",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天空中的白云，懒洋洋的漂来漂去！"
+  },
+  {
+    "split": "test",
+    "sentence_id": "283",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "远处——快到天际线了，才有一两片白云，亮得现出异彩，像是美丽的贝壳一般。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "535",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白堤和西南的苏堤",
+    "new": "白堤和苏堤",
+    "sentence": "孤山东边的白堤和西南的苏堤，就像两条绿色的绸带，轻柔地飘浮在碧水之上。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "607",
+    "pair_index": 0,
+    "side": "vehicle",
+    "old": "白纱巾",
+    "new": "纱巾",
+    "sentence": "雪花落在了花草的枯枝上，如同带上了一条白纱巾。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "613",
+    "pair_index": 1,
+    "side": "vehicle",
+    "old": "我的童年",
+    "new": "童年",
+    "sentence": "但我还是喜爱她，像喜爱我最倾心的恋人；我还是执拗地追寻她，像追寻早已消逝的我的童年。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "638",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天空中一朵朵白云，在闹着笑着追逐蹦跳，快乐极了！"
+  },
+  {
+    "split": "test",
+    "sentence_id": "638",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天空中一朵朵白云，在闹着笑着追逐蹦跳，快乐极了！"
+  },
+  {
+    "split": "test",
+    "sentence_id": "638",
+    "pair_index": 2,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天空中一朵朵白云，在闹着笑着追逐蹦跳，快乐极了！"
+  },
+  {
+    "split": "test",
+    "sentence_id": "638",
+    "pair_index": 3,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天空中一朵朵白云，在闹着笑着追逐蹦跳，快乐极了！"
+  },
+  {
+    "split": "test",
+    "sentence_id": "638",
+    "pair_index": 4,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天空中一朵朵白云，在闹着笑着追逐蹦跳，快乐极了！"
+  },
+  {
+    "split": "test",
+    "sentence_id": "684",
+    "pair_index": 2,
+    "side": "vehicle",
+    "old": "蓝锦缎",
+    "new": "锦缎",
+    "sentence": "湖静的像一面镜子。青海的水，静得温柔恬雅，那蓝锦缎似的湖面上，起伏着一层微微的涟漪。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "769",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "西红柿的秧子",
+    "new": "秧子",
+    "sentence": "西红柿的秧子很小，只有一个小孩子那么高，它的茎很细，有点弱不禁风的样子。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "833",
+    "pair_index": 0,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "天上的白云好像一朵朵雪白的棉花。"
+  },
+  {
+    "split": "test",
+    "sentence_id": "887",
+    "pair_index": 1,
+    "side": "tenor",
+    "old": "白云",
+    "new": "云",
+    "sentence": "它泛着太阳的光芒，用向上的姿势迎接那风，那光，那淡淡的水一样流淌的白云。"
+  }
+]

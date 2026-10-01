@@ -15,7 +15,9 @@ No predicted tenor–vehicle extraction results, cultural interpretations, model
 
 ## Data
 
-SimileSet-CN has 4,000 training sentences with 7,205 gold tenor–vehicle pairs and 1,000 test sentences with 1,844 gold pairs. The eight labels are `好`, `乐`, `怒`, `哀`, `惧`, `恶`, `惊`, and `无情绪`. The task-specific files preserve the same sentence IDs and sentences.
+SimileSet-CN has 4,000 training sentences with 7,202 gold tenor–vehicle pairs and 1,000 test sentences with 1,843 gold pairs in the current boundary-revised version. The eight labels are `好`, `乐`, `怒`, `哀`, `惧`, `恶`, `惊`, and `无情绪`. The task-specific files preserve the same sentence IDs and sentences.
+
+The 2026-10-01 boundary review shortened non-essential modifiers in 95 retained label spans and removed four redundant pairs. See [`BOUNDARY_REVISIONS.md`](data/SimileSet-CN/BOUNDARY_REVISIONS.md), [`boundary_changes.json`](data/SimileSet-CN/boundary_changes.json), and [`pair_deduplications.json`](data/SimileSet-CN/pair_deduplications.json). The paper's original pair counts and any pair-level benchmark scores calculated on the earlier annotations must be updated or recalculated before they are attributed to this revision.
 
 `gold_pairs` in the dataset are human-checked reference annotations. They must **not** be passed off as predictions from the upstream extraction model. For a paper-faithful Task 4 run, produce extraction results separately for each split and place them in `extraction_results/`.
 
